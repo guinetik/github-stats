@@ -4,6 +4,8 @@
   <p>Get dynamically generated GitHub stats on your READMEs!</p>
 </div>
 
+> **Note:** This is a personal fork of [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), self-hosted on Vercel at `guinetik-github-stats.vercel.app`. The public instance frequently hits GitHub API rate limits, causing downtime. This fork provides a reliable instance for my own projects.
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats/actions">
     <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
